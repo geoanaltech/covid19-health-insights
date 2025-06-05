@@ -26,7 +26,7 @@ This repository contains an advanced R-based data analytics project on COVID-rel
 - Occupational Risk Profiles
 
 ## 🔗 Live Dashboard (Shiny)
-[Launch Dashboard](#) *(upload to shinyapps.io or RStudio Connect and paste the link)*
+[Launch Dashboard](#) *(https://fishbassey.shinyapps.io/geoanaltech_covid_analysis/)*
 
 ## 📁 Folders
 - `data/`: raw and cleaned datasets
