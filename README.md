@@ -36,9 +36,9 @@ This repository contains an advanced R-based data analytics project on COVID-rel
 ## 💡 Credits
 This project was supported and inspired by **Geospatial Analytics Technologies (GEOANALTECH)** – empowering analysts in Africa through data.
 
-Follow us on LinkedIn to see more: [🔗 GEOANALTECH LinkedIn](#)
+Follow us on LinkedIn to see more: [🔗 https://www.linkedin.com/in/geoanaltech]
 
 ---
 
 ## 📬 Contact
-For collaboration, mentorship, or job opportunities, connect on [LinkedIn](#).
+For collaboration, mentorship, or job opportunities, connect on [LinkedIn](https://www.linkedin.com/in/geoanaltech).
